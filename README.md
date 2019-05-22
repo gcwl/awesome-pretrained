@@ -6,3 +6,9 @@
 - https://github.com/huggingface/pytorch-pretrained-BigGAN
 - https://github.com/qubvel/segmentation_models
 - https://github.com/wielandbrendel/bag-of-local-features-models
+
+### Pretrained embeddings
+
+- https://ai.tencent.com/ailab/nlp/embedding.html
+- https://github.com/Embedding/Chinese-Word-Vectors
+- https://github.com/Separius/awesome-sentence-embedding
